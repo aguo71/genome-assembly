@@ -1,0 +1,8 @@
+digraph {
+ACT;
+ACT -> CTTAT  [label=ACTTAT];
+ACT -> CTGAC  [label=ACTGAC];
+CTTAT;
+CTGAC;
+CAATGT;
+}
